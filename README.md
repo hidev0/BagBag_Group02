@@ -8,7 +8,6 @@
 	1. Ngô Văn Ngọc Hải  	(Student1468217)
 	2. Nguyễn Minh Chí Thiện	(Student1468195)
 	3. Nguyễn Quốc Thiện 	(Student1468208)
-
 =======================================
 Documentations : https://github.com/hidev0/BagBag_Group02/tree/main/Documentations
 =======================================
